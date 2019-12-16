@@ -3,7 +3,7 @@
 For slides and example code, see [lesson 13](../../../fhnw-iot/blob/master/13/README.md)
 
 > *Note: Do not work on this repository right away.*<br/>
-> *[Check existing forks to find the specific repository for your class.](../../network/members)*
+> *[Create your personal copy by clicking this GitHub Classroom link](https://classroom.github.com/a/9nvtqrfZ).*
 
 ### a) Parametric design, 15'
 * Download [OpenSCAD](https://www.openscad.org/) and create a simple 3D design.

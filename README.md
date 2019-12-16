@@ -14,7 +14,7 @@ For slides and example code, see [lesson 13](../../../fhnw-iot/blob/master/13/RE
 * Done? Take a look at this model.
 
 ### b) Second gen products, 15'
-* Compare the Echo Dot (2nd gen) to the original Echo.
+* Compare the [Echo Dot](https://www.ifixit.com/Teardown/Amazon+Echo+Dot+Teardown/61304) ([2nd gen](https://www.ifixit.com/Teardown/Amazon+Echo+Dot+2nd+Generation+Teardown/110989)) to the original [Echo](https://www.ifixit.com/Teardown/Amazon+Echo+Teardown/33953).
 * What was changed, and what could be the rationale?
 * If an injection mold is $10k, how much was saved?
 * Which other parts could bring down the price?

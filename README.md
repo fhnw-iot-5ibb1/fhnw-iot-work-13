@@ -5,8 +5,20 @@ For slides and example code, see [lesson 13](../../../fhnw-iot/blob/master/13/RE
 > *Note: Do not work on this repository right away.*<br/>
 > *[Check existing forks to find the specific repository for your class.](../../network/members)*
 
-### a) X, 0'
-* X.
+### a) Parametric design, 15'
+* Download OpenSCAD and create a simple 3D design.
+* OpenSCAD is a domain specific language for CAD.
+* Objects can built by subtracting simple shapes.
+* Design a box that fits a Raspberry Pi Zero.
+* Export as STL and slice it e.g. in Cura.
+* Done? Take a look at this model.
+
+### b) Second gen products, 15'
+* Compare the Echo Dot (2nd gen) to the original Echo.
+* What was changed, and what could be the rationale?
+* If an injection mold is $10k, how much was saved?
+* Which other parts could bring down the price?
+* Be prepared to present your findings.
 
 ### Submitting results
 * [Commit and push](#git) local changes to your repository.

@@ -6,12 +6,12 @@ For slides and example code, see [lesson 13](../../../fhnw-iot/blob/master/13/RE
 > *[Check existing forks to find the specific repository for your class.](../../network/members)*
 
 ### a) Parametric design, 15'
-* Download OpenSCAD and create a simple 3D design.
-* OpenSCAD is a domain specific language for CAD.
-* Objects can built by subtracting simple shapes.
-* Design a box that fits a Raspberry Pi Zero.
-* Export as STL and slice it e.g. in Cura.
-* Done? Take a look at this model.
+* Download [OpenSCAD](https://www.openscad.org/) and create a simple 3D design.
+* OpenSCAD is a domain specific [language for CAD](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/The_OpenSCAD_Language).
+* Objects can built by [subtracting](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/The_OpenSCAD_Language#difference) simple shapes.
+* Design a box that fits a [Raspberry Pi Zero](https://blog.protoneer.co.nz/raspberry-pi-zero-footprint-dimensions/).
+* Export as STL and slice it e.g. in [Cura](https://ultimaker.com/software/ultimaker-cura).
+* Done? Take a look at [this model](https://github.com/sgall17a/Raspi2_case/blob/master/rasppi2.scad).
 
 ### b) Second gen products, 15'
 * Compare the [Echo Dot](https://www.ifixit.com/Teardown/Amazon+Echo+Dot+Teardown/61304) ([2nd gen](https://www.ifixit.com/Teardown/Amazon+Echo+Dot+2nd+Generation+Teardown/110989)) to the original [Echo](https://www.ifixit.com/Teardown/Amazon+Echo+Teardown/33953).
